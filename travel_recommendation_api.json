@@ -52,9 +52,9 @@
     "temples": [
       {
         "id": 1,
-        "name": "Angkor Wat temple, Cambodia",
+        "name": "Angkor Wat Temple, Cambodia",
         "imageUrl": "https://media.istockphoto.com/id/944343802/photo/angkor-wat.jpg?s=2048x2048&w=is&k=20&c=Lo7UPEc0ZKN0YOKn9SJDUKKiItsbwVRlkLk8LPHCmFc=",
-        "description": "A UNESCO World Heritage temple and the largest religious monument in the world."
+        "description": "A UNESCO World Heritage Temple and the largest religious monument in the world."
       },
       {
         "id": 2,
@@ -66,9 +66,9 @@
     "beaches": [
       {
         "id": 1,
-        "name": "Bora Bora, French Polynesia",
+        "name": "Bora Bora Beach, French Polynesia",
         "imageUrl": "https://media.istockphoto.com/id/178807280/photo/panoramic-view-of-blue-ocean-in-bora-bora.jpg?s=2048x2048&w=is&k=20&c=bj2CvYP8CWZ_RqcIb2hVDZFsgcTDT3kYjBNX6Os35jo=",
-        "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
+        "description": "An beach known for its stunning turquoise waters and luxurious overwater bungalows."
       },
       {
         "id": 2,
