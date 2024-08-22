@@ -5,7 +5,7 @@
         "name": "Australia",
         "cities": [
           {
-            "name": "Sydney, Australia",
+            "name": "Sydney City, Australia",
             "imageUrl": "https://media.istockphoto.com/id/535455441/photo/view-of-sydney-harbour-australia.jpg?s=2048x2048&w=is&k=20&c=JkQCL_gOpuwCJwqRKPTaaOKARCmA1G88U0LkX_ifRaA=",
             "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
           },
@@ -21,9 +21,9 @@
         "name": "Japan",
         "cities": [
           {
-            "name": "Tokyo, Japan",
+            "name": "Tokyo City, Japan",
             "imageUrl": "https://media.istockphoto.com/id/484915982/photo/akihabara-tokyo.jpg?s=2048x2048&w=is&k=20&c=az1m3NFQRTIuBNcaHPCE8ZFpnVS2RqaU1YCzWD_7-WI=",
-            "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
+            "description": "A bustling city blending tradition and modernity, famous for its cherry blossoms and rich culture."
           },
           {
             "name": "Kyoto, Japan",
@@ -52,9 +52,9 @@
     "temples": [
       {
         "id": 1,
-        "name": "Angkor Wat, Cambodia",
+        "name": "Angkor Wat temple, Cambodia",
         "imageUrl": "https://media.istockphoto.com/id/944343802/photo/angkor-wat.jpg?s=2048x2048&w=is&k=20&c=Lo7UPEc0ZKN0YOKn9SJDUKKiItsbwVRlkLk8LPHCmFc=",
-        "description": "A UNESCO World Heritage site and the largest religious monument in the world."
+        "description": "A UNESCO World Heritage temple and the largest religious monument in the world."
       },
       {
         "id": 2,
